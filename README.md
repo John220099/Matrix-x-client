@@ -13,3 +13,8 @@ It will only support android
 * more killaura range coming soon
 * faster movement speed coming soon
 And more soon...
+
+# quike note
+it will only work on servers and realms 
+as i sad it will not work in single player
+and friends
