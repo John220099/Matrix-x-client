@@ -15,6 +15,5 @@ It will only support android
 And more soon...
 
 # quike note
-it will only work on servers and realms 
-as i sad it will not work in single player
-and friends
+* it will only work on servers and realms as i sad it will not work in single player and friends
+* I am also not responsible for any damage to your account or mc servers
