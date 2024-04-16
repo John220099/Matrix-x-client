@@ -13,6 +13,7 @@ It will only support android
 * more killaura range coming soon
 * faster movement speed coming soon
 * 64/32 bit support 32 bit soon
+
 And more soon...
 
 # quike note
