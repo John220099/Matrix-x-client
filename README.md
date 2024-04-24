@@ -10,8 +10,8 @@ It will only support android
 # features
 * higher killaura cps
 * multi version support
-* more killaura range coming soon
-* faster movement speed coming soon
+* more killaura range
+* faster movement speed
 * 64/32 bit support 32 bit soon
 
 And more soon...
