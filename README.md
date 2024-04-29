@@ -2,7 +2,7 @@
 ![M_20240411_211843_0000](https://github.com/John220099/Matrix-x-client/assets/148237962/28fc49f0-fd8e-4454-8b49-11bd2732186f)
 
 # update
-Currently mojang has patched this client it. will say bad packet or corrupted. There is not really a fix. 
+Currently mojang has patched this client it. will say bad packet or corrupted when joining a server. There is not really a fix. 
 
 # information 
 A new hacked client for mcpe 64bit 
