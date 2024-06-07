@@ -1,2 +1,0 @@
-# mcpedata
-MCPE Data
