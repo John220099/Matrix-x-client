@@ -1,10 +1,9 @@
 # Matrix-x-client
 ![M_20240411_211843_0000](https://github.com/John220099/Matrix-x-client/assets/148237962/28fc49f0-fd8e-4454-8b49-11bd2732186f)
 
-# discontinued
-mojang made it imposseble to join server and realms
-updating will not fix it. 
-thats why the source code will be uploaded frome the latest version.
+# continued? 
+The client will be rewriten and will no longer use protohax as a base.
+When it will release idk
 
 # update
 Currently mojang has patched this client it. will say bad packet or corrupted when joining a server. There is not really a fix. 
